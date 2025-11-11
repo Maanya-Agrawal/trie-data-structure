@@ -176,7 +176,7 @@ int main() {
                 break;
 
             case 0:
-                printf("Exiting... 👋\n");
+                printf("Exiting...\n");
                 exit(0);
 
             default:
